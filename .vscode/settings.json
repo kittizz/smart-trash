@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "config": "plaintext",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp"
+    }
+}
